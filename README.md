@@ -229,6 +229,6 @@
 
 ---
 
-⭐ **Open to AI | ML Engineer | LLM Engineer | Freelance projects | Contract work roles — Full Time **
+⭐ **Open to AI | ML Engineer | LLM Engineer | Full Time **
 
 📍 Sialkot, Punjab, Pakistan | 🌍 Open to Globally
