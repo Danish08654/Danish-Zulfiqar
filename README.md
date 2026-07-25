@@ -15,22 +15,6 @@
 
 ---
 
-## 🧠 Core Expertise
-
-<div align="center">
-
-| Domain | Skills |
-|--------|--------|
-| 🤖 **Generative AI** | LLMs · RAG Pipelines · Multi-Agent Systems · Prompt Engineering |
-| 🧬 **NLP & Transformers** | Fine-tuning · Embeddings · Semantic Search · Classification |
-| 👁️ **Computer Vision** | YOLOv8 · Medical Imaging · OCR · Satellite Analysis |
-| 📊 **Predictive ML** | Forecasting · Risk Scoring · Churn Prediction · Explainable AI |
-| ⚙️ **Production ML** | End-to-End Pipelines · Model Deployment · API Design · Automation |
-
-</div>
-
----
-
 ## 🚀 Production AI Systems
 
 <details>
