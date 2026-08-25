@@ -186,7 +186,6 @@
 
 <div align="center">
 
-![Danish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danish08654&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 </div>
 
